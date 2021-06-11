@@ -1,0 +1,1 @@
+alert("你访问到了 main.js")
